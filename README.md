@@ -47,7 +47,7 @@ The system is modular, shift-oriented, and supports secure authentication (badge
 
 ---
 
-## 📅 Project Status
+## Project Status
 
 This repo currently contains the full architecture and documentation framework. Development is underway module-by-module, with hardware testing expected to begin shortly.
 
